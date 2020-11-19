@@ -9,10 +9,6 @@
 - 🥅 2021 Goals: Find and work on personal projects
 - ⚡ Fun fact: I love playing video games
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Thibault Spotify Playing" width="350" />](https://open.spotify.com/user/11140714306)
-
 ### Connect with me:
 
 [<img align="left" alt="ThibaultDct | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
